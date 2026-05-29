@@ -1,0 +1,198 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 29 May 2026 15:11:53 at https://www.finedaysticker.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.finedaysticker.com/ -O1 "E:\Fineday Sticker Website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:11:55	Warning: 	HTML file (754 bytes) retransferred due to lack of cache: https://www.finedaysticker.com/
+15:22:51	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/category/บทความงานพิมพ์สติ๊กเกอ/ (from https://www.finedaysticker.com/)
+15:22:54	Error: 	"Not Found" (404) at link https://www.finedaysticker.com/wp-content/plugins/blog-designer-pack/assets/css/owl.video.play.png (from https://www.finedaysticker.com/wp-content/plugins/blog-designer-pack/assets/css/owl.carousel.min.css?ver=4.0.11)
+15:22:54	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/themes/bridge/css/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+15:22:55	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/themes/bridge/css/kiko/webfonts/fontkikolight.woff2
+15:22:55	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/themes/bridge/css/kiko/webfonts/fontkikoreg.woff2
+15:22:55	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/themes/bridge/css/kiko/webfonts/fontkikosolid.woff2
+15:22:55	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/themes/bridge/css/font-awesome-5/webfonts/fa-brands-400.woff2
+15:22:55	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/themes/bridge/css/font-awesome-5/webfonts/fa-regular-400.woff2
+15:22:55	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/themes/bridge/css/font-awesome-5/webfonts/fa-solid-900.woff2
+15:22:55	Error: 	"Not Found" (404) at link https://www.finedaysticker.com/wp-content/themes/bridge/css/img/box_image_shadow.png (from https://www.finedaysticker.com/wp-content/themes/bridge/css/stylesheet.min.css?ver=6.9.1)
+15:22:55	Error: 	"Not Found" (404) at link https://www.finedaysticker.com/wp-content/themes/bridge/images/prettyPhoto/facebook/default_thumbnail.gif (from https://www.finedaysticker.com/wp-content/themes/bridge/css/stylesheet.min.css?ver=6.9.1)
+15:22:56	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.48.0
+15:22:56	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+15:22:56	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+15:22:57	Error: 	"Not Found" (404) at link https://www.finedaysticker.com/wp-content/plugins/seed-fonts/fonts/boon/boon-300.woff2 (from https://www.finedaysticker.com/wp-content/plugins/seed-fonts/fonts/boon/font.css?ver=6.9.1)
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/plugins/seed-fonts/fonts/boon/boon-400.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/plugins/seed-fonts/fonts/boon/boon-500.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/plugins/seed-fonts/fonts/boon/boon-600.woff2
+15:22:57	Error: 	"Not Found" (404) at link https://www.finedaysticker.com/wp-content/plugins/seed-fonts/fonts/boon/boon-700.woff2 (from https://www.finedaysticker.com/wp-content/plugins/seed-fonts/fonts/boon/font.css?ver=6.9.1)
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_7xjnvud7dzb2kzej8flalfq0k.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_7xjnvud7dzb2kzej8fkslfq0k.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_7xjnvud7dzb2kzej8fkolfq0k.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_7xjnvud7dzb2kzej8fkqlfg.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzelqb1m4w5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzelqb1mjw5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzelqb1miw5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzelqb1msw5a.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzek0bfm4w5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzek0bfmjw5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzek0bfmiw5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzek0bfmsw5a.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_9xjnvud7dzb2kzeoltkyteg.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_9xjnvud7dzb2kzeoqtkyteg.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_9xjnvud7dzb2kzeortkyteg.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_9xjnvud7dzb2kzeoftky.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzelsbvm4w5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzelsbvmjw5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzelsbvmiw5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzelsbvmsw5a.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzelaalm4w5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzelaalmjw5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzelaalmiw5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzelaalmsw5a.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzekka1m4w5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzekka1mjw5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzekka1miw5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzekka1msw5a.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzek4afm4w5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzek4afmjw5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzek4afmiw5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzek4afmsw5a.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzekcavm4w5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzekcavmjw5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzekcavmiw5addw.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_6xjnvud7dzb2kzekcavmsw5a.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_9xjnvud7dzb2ca-oltkyteg.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_9xjnvud7dzb2ca-oqtkyteg.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_9xjnvud7dzb2ca-ortkyteg.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_9xjnvud7dzb2ca-oftky.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2cr_sifwmuq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2cr_sizmmuq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2cr_siz2muq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2cr_siawmu.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2cy_gifwmuq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2cy_gizmmuq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2cy_giz2muq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2cy_giawmu.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w__xjnvud7dzb2kdnodvki.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w__xjnvud7dzb2kb9odvki.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w__xjnvud7dzb2kbtodvki.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w__xjnvud7dzb2kynod.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2ck_kifwmuq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2ck_kizmmuq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2ck_kiz2muq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2ck_kiawmu.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2cv_4ifwmuq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2cv_4izmmuq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2cv_4iz2muq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2cv_4iawmu.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2c2_8ifwmuq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2c2_8izmmuq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2c2_8iz2muq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2c2_8iawmu.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2cx_wifwmuq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2cx_wizmmuq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2cx_wiz2muq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2cx_wiawmu.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2c4_0ifwmuq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2c4_0izmmuq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2c4_0iz2muq5q.woff2
+15:22:57	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/uploads/elementor/google-fonts/fonts/prompt-w_8xjnvud7dzb2c4_0iawmu.woff2
+15:22:57	Warning: 	Moved Permanently for https://www.finedaysticker.com/?p=76
+15:22:57	Warning: 	File has moved from https://www.finedaysticker.com/?p=76 to https://www.finedaysticker.com/portfolio/
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/pvc-สูญญากาศ-unio-พระราม-2-ท่าข้า/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ฉลากสินค้า-shopee/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/รับพิมพ์สติ๊กเกอร์ฟอยล/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ฉลากสินค้า-6/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/pvc-สูญญากาศติดกระจก-ไม่มี/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ฉลากสินค้า-ติ/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-แบรนด์-alcohol-hand-gel/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์ตัดแจกเป็นแผ/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/pvc-สูญญากาศ/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์ติดกระจก-4/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์แจกเป็นแผ่น/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ฉลากสินค้า-5/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ฉลากสินค้า-8-2/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์สินค้า/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ฉลากสินค้า-hand-cleansing-spr/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ฉลากสินค้า/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/รับพิมพ์สติ๊กเกอร์-โลโก/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/รับพิมพ์สติ๊กเกอร์-โลโ-2/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/รับพิมพ์สติ๊กเกอร์-โลโ-3/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ฉลากสินค้า-mixed-veggies-and/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/shopee-pvc-ขาวเงาเคลือบด้าน/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/รับพิมพ์สติ๊กเกอร์-2/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/รับพิมพ์สติ๊กเกอร์-3/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ฉลากสินค้า-rya-boutique/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ฉลากสินค้า-lunla-garden-orang/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/พิมพ์สติ๊กเกอร์-ฉลากสิน/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ฉลากสินค้า-delicious-democrac/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์ติดกระจก-3/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ฉลากสินค้า-4/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/lazada-pvc-ขาวเงาเคลือบด้าน/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์ติดกระจก-2/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์ติดรถ-สติ๊กเก/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ตัดแจก-การ์ตู/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/รับพิมพ์สติ๊กเกอร์-พิมพ/ (from https://www.finedaysticker.com/portfolio/)
+15:22:57	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ฉลากสินค้า-7/ (from https://www.finedaysticker.com/portfolio/)
+15:23:07	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ฉลากสินค้า-hi-care-drugs/ (from https://www.finedaysticker.com/portfolio/)
+15:23:07	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-เครื่องสำอา-3/ (from https://www.finedaysticker.com/portfolio/)
+15:23:07	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-แบรนด์สินค้า/ (from https://www.finedaysticker.com/portfolio/)
+15:23:07	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์ฟอยล์เงิน/ (from https://www.finedaysticker.com/portfolio/)
+15:23:07	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-สคบ-over-the-moon/ (from https://www.finedaysticker.com/portfolio/)
+15:23:07	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/ฉลากยาหมอไข่คลินิก/ (from https://www.finedaysticker.com/portfolio/)
+15:23:07	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ฉลากสินค้า-8/ (from https://www.finedaysticker.com/portfolio/)
+15:23:07	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/pn-essential-shower-oil-สติ๊กเกอร์-pvc-ใสเงาหมึก/ (from https://www.finedaysticker.com/portfolio/)
+15:23:07	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/pvc-สูญญากาศ-ไม่มีกาว-dcondo/ (from https://www.finedaysticker.com/portfolio/)
+15:23:07	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-สคบ-บาร์โค้ด/ (from https://www.finedaysticker.com/portfolio/)
+15:23:07	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ฉลากสินค้า-dream-cones-gelato/ (from https://www.finedaysticker.com/portfolio/)
+15:23:07	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ผลิตภัณฑ์-แบร/ (from https://www.finedaysticker.com/portfolio/)
+15:23:07	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-เครื่องสำอา-5/ (from https://www.finedaysticker.com/portfolio/)
+15:23:07	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ติดเครื่องดื/ (from https://www.finedaysticker.com/portfolio/)
+15:23:07	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/รับพิมพ์สติ๊กเกอร์-4/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์ติดอาหาร/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/pvc-สูญญากาศ-ไม่มีกาว/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์ติดเครื่องดื/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-เครื่องสำอาง/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ฉลากสินค้า-bake-with-love-bkk/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-เครื่องสำอา-2/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ไดคัทตามแบบ-ต/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ติดกระจก-ไดค-2/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ผลิตภัณฑ์-แบ-2/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-เครื่องสำอา-4/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ติดเครื่องด-2/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-แบรนด์-ปุ๋ยพร/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/รับพิมพ์สติ๊กเกอร์/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์เบเกอรี่/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/พิมพ์ฉลากสินค้า/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ซีเรียลข้าวไ/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ติดกล่องอาหา/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ติดอาหาร-ปลาร/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-สคบ/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ฉลากสินค้า-2/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ติดกระจก-ผนั/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/กระดาษการ์ด-เก่งกระทะเผ/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ติดกระจก-ไดคั/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ติดผนัง/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-การ์ตูนบุรุษ/ (from https://www.finedaysticker.com/portfolio/)
+15:23:16	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์กันน้ำ-ตัดแจก/ (from https://www.finedaysticker.com/portfolio/)
+15:23:25	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์ติดกระจก/ (from https://www.finedaysticker.com/portfolio/)
+15:23:35	Error: 	"Error when decompressing" (-1) at link https://www.finedaysticker.com/portfolio_page/สติ๊กเกอร์-ฉลากสินค้า-3/ (from https://www.finedaysticker.com/portfolio/)
+15:23:35	Warning: 	Moved Permanently for https://www.finedaysticker.com/?p=82
+15:23:35	Warning: 	File has moved from https://www.finedaysticker.com/?p=82 to https://www.finedaysticker.com/contact/
+15:23:35	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+15:23:35	Warning: 	File not parsed, looks like binary: https://www.finedaysticker.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+15:23:35	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.finedaysticker.com/wp-content/themes/bridge/ (from https://www.finedaysticker.com/wp-content/themes/bridge/js/default_dynamic_callback.php?ver=6.9.1)
+15:23:35	Warning: 	Moved Permanently for https://www.finedaysticker.com/?p=505
+15:23:35	Warning: 	File has moved from https://www.finedaysticker.com/?p=505 to https://www.finedaysticker.com/portfolio_page/505/
+15:23:35	Warning: 	Moved Permanently for https://www.finedaysticker.com/?p=2488
+15:23:35	Warning: 	File has moved from https://www.finedaysticker.com/?p=2488 to https://www.finedaysticker.com/portfolio_page/pp-board-standee-2/
+15:23:35	Warning: 	Moved Permanently for https://www.finedaysticker.com/?p=481
+15:23:35	Warning: 	File has moved from https://www.finedaysticker.com/?p=481 to https://www.finedaysticker.com/portfolio_page/481/
+15:23:39	Warning: 	Moved Permanently for https://www.finedaysticker.com/?p=510
+15:23:39	Warning: 	File has moved from https://www.finedaysticker.com/?p=510 to https://www.finedaysticker.com/portfolio_page/pp-board-standee/
+15:23:39	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.finedaysticker.com/wp-content/themes/bridge/ (from https://www.finedaysticker.com/wp-content/themes/bridge/js/default_dynamic_callback.php?ver=6.9.1)
+15:23:39	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.finedaysticker.com/wp-content/themes/bridge/ (from https://www.finedaysticker.com/wp-content/themes/bridge/js/default_dynamic_callback.php?ver=6.9.1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 46 seconds : 818 links scanned, 724 files written (66812471 bytes overall), 725 files updated [68172385 bytes received at 96561 bytes/sec], 2993963 bytes transferred using HTTP compression in 90 files, ratio 65%, 4.1 requests per connection
+(85 errors, 102 warnings, 0 messages)
